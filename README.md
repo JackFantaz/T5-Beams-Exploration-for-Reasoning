@@ -4,6 +4,6 @@ T5 Beams Exploration for Reasoning is the idea to make a [T5 model](https://arxi
 
 I proposed this technique as part of my Computer Engineering master's degree thesis. 
 
-_[ITA] Click here to read the full thesis (link available soon...)_
+[[ITA] Click here to read the full thesis](https://amslaurea.unibo.it/26877/)
 
 ### An english translation of the main concepts is also coming!
